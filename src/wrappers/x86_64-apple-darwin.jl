@@ -3,11 +3,12 @@ export arv_tool, libaravis
 
 using Glib_jll
 using libusb_jll
+using XML2_jll
 JLLWrappers.@generate_wrapper_header("Aravis")
 JLLWrappers.@declare_library_product(libaravis, "@rpath/libaravis-0.8.0.dylib")
 JLLWrappers.@declare_executable_product(arv_tool)
 function __init__()
-    JLLWrappers.@generate_init_header(Glib_jll, libusb_jll)
+    JLLWrappers.@generate_init_header(Glib_jll, libusb_jll, XML2_jll)
     JLLWrappers.@init_library_product(
         libaravis,
         "lib/libaravis-0.8.0.dylib",
