@@ -1,151 +1,160 @@
 [[Aravis]]
 arch = "aarch64"
-git-tree-sha1 = "e83eccb57fa9bfc035ac9295f54d54f7becb27ba"
+git-tree-sha1 = "a5d8da5044d93c5030d9b334bdc939ccc00d2a6c"
 os = "macos"
 
     [[Aravis.download]]
-    sha256 = "ad372ee403158b0d03c7d41496faa2446e365c0d03b02459aa333a9dcfb0afa0"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.aarch64-apple-darwin.tar.gz"
+    sha256 = "782663b4979c2f119b0c3a84b6b06594e706700b4ac9453b04a97ea43680f8d8"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.aarch64-apple-darwin.tar.gz"
 [[Aravis]]
 arch = "aarch64"
-git-tree-sha1 = "6b32f075ff886bd7c713ce9cd65c1438ee987e78"
+git-tree-sha1 = "500c385e2ec890fccc547eb5ecd6d51ab224b10f"
 libc = "glibc"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "659e2ea4123f302d7b788de63a01351607a09918e162fdb3c424876c50e0c99b"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.aarch64-linux-gnu.tar.gz"
+    sha256 = "922fd243d6eabbd4c20a8badad6fa9637b24abd78bb563a6144655c8523d5887"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.aarch64-linux-gnu.tar.gz"
 [[Aravis]]
 arch = "aarch64"
-git-tree-sha1 = "a64a3e636960937f5828e258c40d97146431d8f1"
+git-tree-sha1 = "78a16b3e5b6f47c030383f0129ab0ea14d504be6"
 libc = "musl"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "9fd12f26cd6d9517c28b475f78a50eba57f22146b9b4521848fe16e8cec94d38"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.aarch64-linux-musl.tar.gz"
+    sha256 = "19c9af68740c02d8ed04054784a131877d4810f06f29cfa05128c3313ee91b9b"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.aarch64-linux-musl.tar.gz"
 [[Aravis]]
 arch = "aarch64"
-git-tree-sha1 = "b556bc028cd535ed91dc56f5da89316145eb0581"
+git-tree-sha1 = "28661fda2dddf28c52bf9293cadc9b4931e3f073"
 os = "freebsd"
 
     [[Aravis.download]]
-    sha256 = "6262936ad47a78d2f57ad6b425cf08505c5967981445cfc40ef75ef4f9241e28"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "0c1a28fcb0cfe52e79a25d9d56004ca400a14a73b1309e8b22c88481397408e3"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.aarch64-unknown-freebsd.tar.gz"
 [[Aravis]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7c5d972d11c0e0ba9c852d8f7b19d3cd4266ee32"
+git-tree-sha1 = "c9150515180c37b30baa7ece6516d65ab95deb3d"
 libc = "glibc"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "25b6ca36a6cf55d7908eb6efa78626296fe31eae7c01fe7d05e1e5dd2759f71b"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "20343b7050375868273713f8ffe3356684b0ac28a02a8d75f2953e0c5e4616e7"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.armv6l-linux-gnueabihf.tar.gz"
 [[Aravis]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "16c71cd10ba168587172e567f3b8ba706c9da913"
+git-tree-sha1 = "a5e3fa7feba7de3a502e9aa02e3b881fb729e5c0"
 libc = "musl"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "ddf5e394ed4ce821fddb3268d60fdc92289531f2af057fb97a0091186a939983"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "4b797951638eea971aea0b83e9e0d707a1a3c7c96cf47bce401313682510c5e1"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.armv6l-linux-musleabihf.tar.gz"
 [[Aravis]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b7f897fc7a0a6fccafba72a60fabf047882e15f3"
+git-tree-sha1 = "7c4aa08f0f4cc9496b5da6e2a3560bfc3d113ae3"
 libc = "glibc"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "53b8f25e22f749a12709bbaf22348a494829574e94e89431f71c6501c04fbc3f"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "3404bb4457dc4c20264b85fc3f446964cf00e2a1a7eed979a19b29dfdc81fb0e"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.armv7l-linux-gnueabihf.tar.gz"
 [[Aravis]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f1fad4991c6671b89b4299fc5a21c5987c01eebf"
+git-tree-sha1 = "c9aae6d18318ce4bb0183e9f5aeda120c96eb04f"
 libc = "musl"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "331ec6dc66fe23ccf9af2ccb7822dbd7b2f099c533295cf091fc9e679da1c111"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "385ec422c54f5099f8c78b65d2052435425e92d61001405bc085c402abfb2911"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.armv7l-linux-musleabihf.tar.gz"
 [[Aravis]]
 arch = "i686"
-git-tree-sha1 = "ddea9b55b12d11d4f6ad60a18b1324bb6fcf43d3"
+git-tree-sha1 = "11cfbc1bc482a8618e68e945c66005c938682829"
 libc = "glibc"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "ac3000add787dcc99ae30850cabe34912be6a9754adec29da887f0694563baac"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.i686-linux-gnu.tar.gz"
+    sha256 = "a8faf8452a238f121c0838759f72f6bd98229b3693f867d8e4fb3484290bb50c"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.i686-linux-gnu.tar.gz"
 [[Aravis]]
 arch = "i686"
-git-tree-sha1 = "154084dbec6f61c75e57cc6be11d359c8be5fb43"
+git-tree-sha1 = "277f47a42dfc22240b1e61df9c8b7ff702a99dfc"
 libc = "musl"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "98463a40aba7f1d33231b8155aba02393509f387bbc8d2263f0b408a5097bfd8"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.i686-linux-musl.tar.gz"
+    sha256 = "285236866c5b8e8f15441ef2adae4c7a3d5e5669a35a38aae5f406d8b9b470ce"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.i686-linux-musl.tar.gz"
 [[Aravis]]
 arch = "i686"
-git-tree-sha1 = "5199ff73375cfc21a99dae7beebd93fb0ec4649e"
+git-tree-sha1 = "54ea03d2485cab25106badac342240e7cbe141e9"
 os = "windows"
 
     [[Aravis.download]]
-    sha256 = "44c52553707ecc28ed2f37d0ad4ae508a23660ac07fe634eb63d9d18f338cee5"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.i686-w64-mingw32.tar.gz"
+    sha256 = "9fda5ee12b6b19023a91ee3db77739d76959046db6a4bc7b702a55399d9b5c9c"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.i686-w64-mingw32.tar.gz"
 [[Aravis]]
 arch = "powerpc64le"
-git-tree-sha1 = "249ca929d36f716cc4b78c0708067924bc2bfa24"
+git-tree-sha1 = "ee2a420f9cc2a55929ec5bd3c4b92dc162ac37e0"
 libc = "glibc"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "4f69fdf8863c86487e7efbd531b72d0671ff712925d51498314b8dff64310d56"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ba652116810749ce5ee802848235dcc1b9b3c97ccad72df0ab887438c28d5d6a"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.powerpc64le-linux-gnu.tar.gz"
+[[Aravis]]
+arch = "riscv64"
+git-tree-sha1 = "cb244e3cfb5d881ec1833c5ac068631e75264558"
+libc = "glibc"
+os = "linux"
+
+    [[Aravis.download]]
+    sha256 = "f6c329b77e9937b4a966f47c4ef822acffb0ea27eb3bb33e926073c8ebd432cc"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.riscv64-linux-gnu.tar.gz"
 [[Aravis]]
 arch = "x86_64"
-git-tree-sha1 = "1b4d1fa2ebbfd2c33224cdb091c843cc5e8f19e6"
+git-tree-sha1 = "706470ee95b091c8333b6a68154a927f2437089b"
 os = "macos"
 
     [[Aravis.download]]
-    sha256 = "b632b0aef1af16b12180773f9fa150da7030853077a9627e7499105f89344417"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.x86_64-apple-darwin.tar.gz"
+    sha256 = "044c9fc697b4d7ec9c217fa825e8146768ad4327855ec4b72749082f7418f0cd"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.x86_64-apple-darwin.tar.gz"
 [[Aravis]]
 arch = "x86_64"
-git-tree-sha1 = "71140d10d1e0f4db2048039e7b84f3ef0083d93c"
+git-tree-sha1 = "efef9d7a6803d6dce92b62530270b196adf82c65"
 libc = "glibc"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "9105d17a733d5f8a03bdf00741524e3d6a2610dfeabbc3cabad4635ded3e9bac"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.x86_64-linux-gnu.tar.gz"
+    sha256 = "e893b895ef50906c02efedd4e3846953ba17ccdd527214066b55129e5d4fe942"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.x86_64-linux-gnu.tar.gz"
 [[Aravis]]
 arch = "x86_64"
-git-tree-sha1 = "d79fa8596694208bf0e9a9d86955028a9e3d1a82"
+git-tree-sha1 = "a343ce085318577e200e7102cf9119bbeea64238"
 libc = "musl"
 os = "linux"
 
     [[Aravis.download]]
-    sha256 = "f06228e27ab15c2e288629ebd67fa568696139685bfae0ee2bf4d82de90fdb23"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.x86_64-linux-musl.tar.gz"
+    sha256 = "9c3ed7dfdb671b6560ee135c9f5cfa79f53338d390e9c6411d7b182d9fa4b246"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.x86_64-linux-musl.tar.gz"
 [[Aravis]]
 arch = "x86_64"
-git-tree-sha1 = "1abb6ba317fe223438bb80d8f15da8e5658f776e"
+git-tree-sha1 = "32bf5a83116284a5e323f71889e309c9dd60e661"
 os = "freebsd"
 
     [[Aravis.download]]
-    sha256 = "39952197b1e30139d2af9c258ceaaaef066ca8a7e8f75237ae431cdfe1fcd794"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "354217ca8c45925e23fde172a565573f2672eb1f4224163f8ce4591ce479fcf1"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.x86_64-unknown-freebsd.tar.gz"
 [[Aravis]]
 arch = "x86_64"
-git-tree-sha1 = "611a56b29acc2786b22bcf23a3198083ad36bc40"
+git-tree-sha1 = "16cee176ba755f6c81f21c0b41adb8e40e302e71"
 os = "windows"
 
     [[Aravis.download]]
-    sha256 = "150f1ef1993ad33de50445f093e850086cb8d91d3c8766e358977f03e0736e38"
-    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.33+0/Aravis.v0.8.33.x86_64-w64-mingw32.tar.gz"
+    sha256 = "771b48159926c7bc94c48ca84cf3788f79ecc04ef07790401ed0c84a2dc3f74f"
+    url = "https://github.com/JuliaBinaryWrappers/Aravis_jll.jl/releases/download/Aravis-v0.8.35+0/Aravis.v0.8.35.x86_64-w64-mingw32.tar.gz"
